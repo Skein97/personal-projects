@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CREAD/.idea/CREAD.iml" filepath="$PROJECT_DIR$/../CREAD/.idea/CREAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/.idea/modules.iml" filepath="$PROJECT_DIR$/../modules/.idea/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myprojects.iml" filepath="$PROJECT_DIR$/.idea/myprojects.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/storefront/.idea/storefront.iml" filepath="$USER_HOME$/Desktop/storefront/.idea/storefront.iml" />
+    </modules>
+  </component>
+</project>
