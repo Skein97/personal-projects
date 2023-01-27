@@ -8,7 +8,7 @@ def pdf_combiner(pdf_list):
     for pdf in pdf_list:
         print(pdf)
         merger.append(pdf)
-    merger.write('super.pdf')
+    merger.write(input('Please name your new pdf file: ')+'.pdf')
     print('All done!')
 
 pdf_combiner(inputs)
