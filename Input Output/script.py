@@ -3,7 +3,7 @@ from translate import Translator
 
 try:
 	with open('test.txt', mode='r') as my_file:
-		translator = Translator( to_lang = sys.argv[1])
+		translator = Translator(to_lang= sys.argv[1])
 		text = my_file.read()
 		print(text)
 		translation = translator.translate(text)
